@@ -1,0 +1,3 @@
+# Real-Trash
+
+SOME OF MY BUGGY OLD USELESSS CODE.
