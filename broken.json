@@ -6,5 +6,33 @@
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "Minimal"
+	},{
+		"name": "Minimal 2 ",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/min/m%202.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Minimal"
+	},{
+		"name": "Fluid 1 ",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/fl/1.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Fluids"
+	},{
+		"name": "Fluid 2 ",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/fl/2.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Fluids"
+	},{
+		"name": "Nature 1 ",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/nat/nt%201.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Nature"
 	}
 ]
