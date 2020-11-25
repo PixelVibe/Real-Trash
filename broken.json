@@ -377,5 +377,12 @@
 		"downloadable": true,
 		"copyright": "Personal Use",
 		"collections": "Nature"
+	},{
+		"name": "Character 1",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/ch/CH%201.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Characters"
 	}
 ]
