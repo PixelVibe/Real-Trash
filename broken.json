@@ -1,5 +1,40 @@
 [
-         {
+            {
+		"name": "Nature 14",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/nat/nt14.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Nature"
+	},{
+		"name": "Nature 13",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/nat/nt13.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Nature"
+	}, {
+		"name": "Nature 12",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/nat/nt12.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Nature"
+	},{
+		"name": "Nature 11",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/nat/nt11.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Nature"
+	},{
+		"name": "Nature 10",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/nat/nt10.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Nature"
+	},{
 		"name": "Mono 8",
 		"author": "Pixel Vibe",
 		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/Mon/8.png",
