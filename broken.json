@@ -1,5 +1,33 @@
 [
             {
+		"name": "Krypt 4",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/Kr/kr4.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Krypt"
+	},{
+		"name": "Krypt 3",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/Kr/kr3.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Krypt"
+	},{
+		"name": "Krypt 2",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/Kr/kr2.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Krypt"
+	},{
+		"name": "Krypt 1",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/Kr/kr1.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Krypt"
+	},{
 		"name": "Render 8",
 		"author": "Pixel Vibe",
 		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/3D/rnd8ng",
