@@ -1,5 +1,47 @@
 [
             {
+		"name": "Trippy 6",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/trp/tp6.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Trippy"
+	},{
+		"name": "Trippy 5",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/trp/tp5.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Trippy"
+	},{
+		"name": "Trippy 4",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/trp/tp4.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Trippy,Fluids"
+	},{
+		"name": "Trippy 3",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/trp/tp3.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Trippy,Fluids"
+	},{
+		"name": "Trippy 2",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/trp/tp2.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Trippy,Fluids"
+	},{
+		"name": "Trippy 1",
+		"author": "Pixel Vibe",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/trp/tp1.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Trippy,Fluids"
+	},{
 		"name": "AMOLED 35",
 		"author": "Pixel Vibe",
 		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/AMO/am35.png",
