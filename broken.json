@@ -1,5 +1,12 @@
 [
           {
+		"name": "Test",
+		"author": "Parth",
+		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/Gr/noise9.jpg",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections": "Pop Culture,Monotone"
+	},{
 		"name": "Wednesday 5",
 		"author": "Parth",
 		"url": "https://raw.githubusercontent.com/PixelVibe/Real-Trash/main/Random%20Shit/popc/wed5.png",
