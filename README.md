@@ -1,3 +1,3 @@
-# Real-Trash
+# File statement
 
-SOME OF MY BUGGY OLD USELESSS CODE.
+JSON hsoting for wall app
